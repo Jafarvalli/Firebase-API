@@ -1,0 +1,26 @@
+
+.jv{
+  background-color:teal;
+  margin: 30px auto;
+  height: 250px;
+  width: 400px;
+  padding: 20px;
+}
+.jv input{
+  padding: 8px;
+  width: 60%;
+}
+button{
+  padding: 6px;
+  margin: 8px;
+}
+.a{
+  background-color: green;
+}
+.b{
+  background-color: yellow;
+}
+.c{
+  background-color: red;
+  color: white;
+}
